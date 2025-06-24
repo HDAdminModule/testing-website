@@ -1,0 +1,2 @@
+due to webador not working with itms-services links, open this link!
+itms-services://?action=download-manifest&url=https://https://raw.githubusercontent.com/HDAdminModule/testing-website/refs/heads/main/ipa.plist
